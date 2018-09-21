@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MapActivity">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar2View"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+        android:popupTheme="@style/Theme.AppCompat.Light">
+<!--No need for id, just for decorative purposes-->
+        <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Kosher Tracker"
+    android:textSize="28sp"/>
+    </android.support.v7.widget.Toolbar>
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="251dp"
+        android:background="#FFFF99"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="199dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="143dp"
+        android:orientation="vertical"
+        android:background="#FF66FF"
+        app:layout_constraintBottom_toTopOf="@+id/listView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar2View">
+
+        <Spinner
+            android:id="@+id/prox_pref"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="100dp"
+            android:layout_marginStart="100dp"
+            android:layout_weight="1" />
+
+        <Spinner
+            android:id="@+id/type_pref"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="100dp"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1" />
+
+        <Spinner
+            android:id="@+id/cert_pref"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="100dp"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <fragment
+        android:id="@+id/fragment"
+        android:name="com.google.android.gms.maps.MapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/listView" />
+
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,689 @@
+<?xmlversion="1.0"encoding="UTF-8"?>
+<!DOCTYPE Restaurants[
+
+]>
+<Restaurants>
+<Changed>0</Changed>
+<Restaurant>
+
+<num>1</num>
+<name>Aroma</name>
+<city>Tel Aviv</city>
+<address>Menahem Begin 48</address>
+<type>MilkMeat</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>
+<Restaurant>
+
+<num>2</num>
+<name>Hathinia</name>
+<city>Tel Aviv</city>
+<address>Levinski 33</address>
+<type>Milk</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>3</num>
+<name>Aroma</name>
+<city>Tel Aviv</city>
+<address>Disingof Center</address>
+<type>Milk</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>4</num>
+<name>Pika</name>
+<city>Tel Aviv</city>
+<address>Tushia 6</address>
+<type>Milk</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>4</num>
+<name>Cafe 360</name>
+<city>Tel Aviv</city>
+<address>Hashlosha 2</address>
+<type>Milk</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>5</num>
+<name>Whisky Bar</name>
+<city>Tel Aviv</city>
+<address>David Eliezer27</address>
+<type>Meat</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>6</num>
+<name>Aminadav</name>
+<city>Tel Aviv</city>
+<address>Aminadav 17</address>
+<type>Milk</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>7</num>
+<name>Mimush</name>
+<city>Tel Aviv</city>
+<address>Hahaskala 3</address>
+<type>Milk</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>8</num>
+<name>Astala</name>
+<city>Tel Aviv</city>
+<address>Hakishur 4</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>9</num>
+<name>Milk Bakery</name>
+<city>Tel Aviv</city>
+<address>Bet Eshel 5</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>10</num>
+<name>Dosa Bar</name>
+<city>Tel Aviv</city>
+<address>Ben Yehuda 188</address>
+<type>Parve</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>11</num>
+<name>Otzrin</name>
+<city>Jaffa</city>
+<address>Mazal Dagim 8</address>
+<type>Meat</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>12</num>
+<name>La Cocina</name>
+<city>Ramat Gan</city>
+<address>Bialik 59</address>
+<type>Milk</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>13</num>
+<name>Sheakhalnu Mishelo</name>
+<city>Holon</city>
+<address>Arie Shneker 61</address>
+<type>Meat</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>14</num>
+<name>Maachalim Shel Ima</name>
+<city>Ramat Gan</city>
+<address>Ben Gurion 34</address>
+<type>Meat</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>15</num>
+<name>Mavshelet Bira Beitit</name>
+<city>Modi'in</city>
+<address>Hayarden 16</address>
+<type>Parve</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>16</num>
+<name>Pasta Basta</name>
+<city>Petah Tikva</city>
+<address>Bareket 7</address>
+<type>Milk</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>17</num>
+<name>Humus Givataim</name>
+<city>Kiryat Ono</city>
+<address>Shlomo Hamelech 37</address>
+<type>null</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>18</num>
+<name>Yogurt Yoyo Land</name>
+<city>Kiryat Ono</city>
+<address>Shlomo Hamelech 37</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>19</num>
+<name>Savih Hasharon</name>
+<city>Petah Tikva</city>
+<address>Yehoshua Shtamemper 20</address>
+<type>Parve</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>20</num>
+<name>Falafel 4 Teamim</name>
+<city>Rishon LeZion</city>
+<address>Rotchild 65</address>
+<type>Parve</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>21</num>
+<name>Dvush</name>
+<city>Rishon LeZion</city>
+<address>Zhabotinsky 24</address>
+<type>Meat</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>22</num>
+<name>Meleh HaSavich</name>
+<city>Rishon LeZion</city>
+<address>Rotchild 33</address>
+<type>Parve</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>23</num>
+<name>Bar Dagim</name>
+<city>Rishon LeZion</city>
+<address>Kanyon HaRishonim</address>
+<type>Milk</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>24</num>
+<name>Chip Chop</name>
+<city>Hod HaSahron</city>
+<address>Ramataaim 69</address>
+<type>Meat</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>25</num>
+<name>Of Hamazon - Nahshonim</name>
+<city>Nahshonim</city>
+<address>Kibutz Nahshonim</address>
+<type>Meat</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>26</num>
+<name>Baffelo</name>
+<city>Kfar Sabah</city>
+<address>Weizmann 43</address>
+<type>Meat</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>27</num>
+<name>Ish Shel Lehem</name>
+<city>Ginton</city>
+<address>Harimon 4</address>
+<type>MilkParve</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>28</num>
+<name>Mar Kar Basar</name>
+<city>Kfar Sabah</city>
+<address>Weizmann 189</address>
+<type>Meat</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>29</num>
+<name>Pasta Basta Rehovot</name>
+<city>Rehobot</city>
+<address>Herzel 219</address>
+<type>Milk</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>30</num>
+<name>Bet Kfar</name>
+<city>Kfar Sabah</city>
+<address>Ben Yehuda 71</address>
+<type>Meat</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>31</num>
+<name>Bet Kfar - Hadarim</name>
+<city>Kfar Sabah</city>
+<address>Ben Yehuda 77</address>
+<type>Meat</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>32</num>
+<name>Austria</name>
+<city>Asheret</city>
+<address>Harimon 8</address>
+<type>Milk</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>32</num>
+<name>Hawaij Marak - Catering</name>
+<city>Gadera</city>
+<address>Marvad Haksamim 7</address>
+<type>Meat</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>33</num>
+<name>Malon Ashel Hashomron</name>
+<city>Ariel</city>
+<address>Derech Efron 12</address>
+<type>MilkMeat</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>34</num>
+<name>Zangvil</name>
+<city>Maoz Zion</city>
+<address>Mavo Hadas 1</address>
+<type>Meat</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>35</num>
+<name>Cafe Anona</name>
+<city>Ashkelon</city>
+<address>Iftah HaGiladi 17</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>36</num>
+<name>My Way</name>
+<city>Ashkelon</city>
+<address>Shderot Drom Africa 1</address>
+<type>Meat</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>37</num>
+<name>Italy</name>
+<city>Ashkelon</city>
+<address>Hanasi 4</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>38</num>
+<name>Masao</name>
+<city>Ashkelon</city>
+<address>Hanasi 4</address>
+<type>Meat</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>39</num>
+<name>Misedet Halev Harahav</name>
+<city>Ashkelon</city>
+<address>Haofen 11</address>
+<type>Meat</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>40</num>
+<name>Havat Kaima</name>
+<city>Jerusalem</city>
+<address>Mosahv Bet Zait</address>
+<type>Parve</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>41</num>
+<name>Afaim Bet Hakerem</name>
+<city>Jerusalem</city>
+<address>Bet Hakerem 19</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>42</num>
+<name>tap tail</name>
+<city>Jerusalem</city>
+<address>Etz HaChaim</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>43</num>
+<name>Arbaas</name>
+<city>Jerusalem</city>
+<address>Shile 1</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>44</num>
+<name>Pasta Basta</name>
+<city>Jerusalem</city>
+<address>Hatut 8</address>
+<type>Milk</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>45</num>
+<name>Malon Paamonim</name>
+<city>Jerusalem</city>
+<address>Hamelech George</address>
+<type>MilkMeat</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>46</num>
+<name>Halitah</name>
+<city>Jerusalem</city>
+<address>Halal 6</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>47</num>
+<name>Georgey BaPitah</name>
+<city>Jerusalem</city>
+<address>Hamelech George 37</address>
+<type>Meat</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>48</num>
+<name>Veggies Bar</name>
+<city>Jerusalem</city>
+<address>Halal 19</address>
+<type>Parve</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>49</num>
+<name>Vila Brown</name>
+<city>Jerusalem</city>
+<address>HaNevi'im 54</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>50</num>
+<name>Cafe Carusela</name>
+<city>Jerusalem</city>
+<address>Metudla 1 Pinat Aza</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>51</num>
+<name>Cafe Shraga</name>
+<city>Jerusalem</city>
+<address>Yanai 3</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>52</num>
+<name>Bet Sefer Reut Le'echol Bekef</name>
+<city>Jerusalem</city>
+<address>Eliezer Hagadol 4</address>
+<type>Milk</type>
+<cert>1</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>53</num>
+<name>Afaim Hanasan</name>
+<city>Jerusalem</city>
+<address>Gdaliahu Alon 14</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>54</num>
+<name>Tahanat Cafe</name>
+<city>Jerusalem</city>
+<address>Emek Refaiim 23</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>55</num>
+<name>Hanale</name>
+<city>Jerusalem</city>
+<address>David Remez 2</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>56</num>
+<name>Humus Banchuk</name>
+<city>Jerusalem</city>
+<address>Derech Bet Lehem 23</address>
+<type>Meat</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>57</num>
+<name>Hamakom Shel Itzik</name>
+<city>Jerusalem</city>
+<address>Derech Bet Lehem 33</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>58</num>
+<name>Soda Stream</name>
+<city>Be'er Sheva</city>
+<address>Tzomet RahatLehavim</address>
+<type>MilkMeat</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>59</num>
+<name>Pizza Mahmetzet</name>
+<city>Be'er Sheva</city>
+<address>Aviah Hashofet 3</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+<Restaurant>
+
+<num>60</num>
+<name>Hodu Haktana</name>
+<city>Be'er Sheva</city>
+<address>Ringlebloom 15</address>
+<type>Milk</type>
+<cert>0</cert>
+<phone></phone>
+
+</Restaurant>	
+</Restaurants>
